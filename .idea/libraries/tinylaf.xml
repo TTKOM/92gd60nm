@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tinylaf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/tinylaf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

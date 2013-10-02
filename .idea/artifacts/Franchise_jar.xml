@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Franchise:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Franchise_jar</output-path>
+    <root id="archive" name="Franchise.jar">
+      <element id="module-output" name="Franchise" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/tinylaf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/miglayout-4.0-swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.20-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Data Source" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="07036069-7ca5-49d7-93d3-8cf118b9451d">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc://10.254.252.22/test</jdbc-url>
+    <user-name>franchise</user-name>
+    <user-password>df9edf99df98df9adf98df9bdf98df93df9edf9ddf98</user-password>
+    <libraries>
+      <library>
+        <url>jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.20-bin.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
